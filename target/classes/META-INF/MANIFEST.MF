@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 55819
+Build-Jdk: 17
+Implementation-Title: cursoudemy
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.mfchaves
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/cursoudemy
+Created-By: Maven Integration for Eclipse
+
